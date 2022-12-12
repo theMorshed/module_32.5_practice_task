@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int calculate_power(int n, int m) ;
+int calculate_power(int n, int m);
 
 int main() 
 {
